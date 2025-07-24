@@ -9,54 +9,24 @@
 
 ---
 
-### 🚀 Current Projects
-
-- 🔭 I’m currently working on:  
-  [MentalMosaic](https://github.com/Nungo/Mental-Mosaic)
-
-- 👯 I’m looking to collaborate on:  
-  [CalmPulse](https://github.com/Nungo/calmpulse)
-
-- 🤝 I’m looking for help with:  
-  [QueueCare](https://github.com/Nungo/queuecare)
-
----
-
-### 🌱 Learning & Growing
-
-- **Next.js** and **ReactJS**  
-- **MySQL**  
-- **Azure AI Fundamentals**  
-- **Figma for rapid prototyping**
+- 🔭 I’m currently working on [MentalMosaic](https://github.com/Nungo/Mental-Mosaic)  
+- 🌱 I’m currently learning **NextJS, ReactJS, MySQL, Azure AI Fundamentals, and Figma for rapid prototyping**  
+- 👯 I’m looking to collaborate on [CalmPulse](https://github.com/Nungo/calmpulse)  
+- 🤝 I’m looking for help with [QueueCare](https://github.com/Nungo/queuecare)  
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-say6.vercel.app/)  
+- 💬 Ask me about **Frontend development, Salesforce, and AI-powered design thinking!**  
+- 📫 How to reach me: **nungotshi@gmail.com**  
+- 📄 Know about my experiences: [View CV](https://drive.google.com/drive/folders/1qxC29HBd_c_mL0IrU1bZJH-CwYbRaeuG?usp=drive_link)  
+- ⚡ Fun fact: **I built an AI-powered mental health app inspired by burnout… while experiencing burnout… to help manage burnout. Full circle. 😅**
 
 ---
 
-### 💬 Ask Me About
-
-**Frontend development, Salesforce, and AI-powered design thinking!**
-
----
-
-### 📫 How to Reach Me
-
-- **Email:** nungotshi@gmail.com  
-- **Portfolio:** [portfolio-say6.vercel.app](https://portfolio-say6.vercel.app)  
-- **Resume:** [View CV on Google Drive](https://drive.google.com/drive/folders/1qxC29HBd_c_mL0IrU1bZJH-CwYbRaeuG?usp=drive_link)
-
----
-
-### ⚡ Fun Fact
-
-I built an AI-powered mental health app inspired by burnout… while experiencing burnout… to help manage burnout. Full circle. 😅
-
----
-
-### 🛠️ Languages & Tools
+### 🛠️ Languages and Tools
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
@@ -70,5 +40,7 @@ I built an AI-powered mental health app inspired by burnout… while experiencin
 
 ### 📊 GitHub Stats
 
-![Nungo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nungo&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nungo&layout=compact)](https://github.com/Nungo/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nungo&show_icons=true&locale=en" alt="Nungo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nungo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
